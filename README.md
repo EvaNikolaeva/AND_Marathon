@@ -1,7 +1,7 @@
 # AND_Marathon
 # The Creation of Marathon
 The Idea: 
-<br> A TV show tracker application with the focus on users adding shows to different categories (Watching, Plan to Watch, Completed, etc). Users will be able to leave a rating on the show (5-star system), as well as a review to go along with it.
+<br> A TV show tracker application with the focus on users adding shows to different categories (Watching, Plan to Watch, Completed, etc). Users should be able to leave a rating on the show (5-star system), as well as a review to go along with it.
 
 ![download](https://user-images.githubusercontent.com/58506007/111066047-508c7600-84bd-11eb-8303-322e10c16bd5.gif)
 
